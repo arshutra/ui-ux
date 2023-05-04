@@ -315,11 +315,9 @@ nav>ol>li>button {
 .slider {
     display: flex;
     padding-top: 50px;
-    overflow-x:hidden;
 }
 
 .clients {
-    overflow-x:hidden;
     padding-bottom: 90px;
     width: 1650px;
     display: flex;
