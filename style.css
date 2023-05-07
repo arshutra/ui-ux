@@ -319,7 +319,7 @@ nav>ol>li>button {
 
 .clients {
     padding-bottom: 90px;
-    width: 1650px;
+    width: 30px;
     display: flex;
     animation: anime 15s infinite linear;
     -webkit-animation: anime 15s infinite linear;
